@@ -12,6 +12,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.19",
     "astro": "^7.3.8"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }
